@@ -1,0 +1,26 @@
+DIGITALE AUSSTELLUNG – Vincent Sobirey
+Freundschaft und Loyalität · Religionsprojekt 2026
+==================================================
+
+LOKAL ÖFFNEN
+1. ZIP-Datei entpacken (Rechtsklick > "Alle extrahieren" bzw. Doppelklick auf dem Mac).
+2. Im entpackten Ordner die Datei "index.html" doppelklicken.
+   Sie öffnet sich in deinem Browser (Chrome, Edge, Safari oder Firefox).
+3. Wichtig: Der Ordner "assets" muss immer neben der index.html liegen.
+   Nicht umbenennen und keine Dateien daraus verschieben.
+
+ORDNERSTRUKTUR
+index.html                 Die Ausstellungsseite (Aufbau, Gestaltung und Funktionen)
+assets/img/                Porträt und Fotografie (Originalbilder, nur fürs Web verkleinert)
+assets/pages/              Die 15 Seiten des E-Books als Bilder für den Lesemodus
+assets/Vincent_Sobirey_Freundschaft_und_Loyalitaet.pdf
+                           Das Original-E-Book (unverändert) für den Download
+assets/fonts/              Schriften Crimson Text und Inter (SIL Open Font License,
+                           Lizenztexte liegen im selben Ordner)
+
+VERÖFFENTLICHEN
+Den GESAMTEN Inhalt dieses Ordners (index.html + assets) auf einen kostenlosen
+Webspeicher hochladen, z. B. GitHub Pages. Die ausführliche Anleitung inklusive
+QR-Code steht im Anleitungs-Dokument.
+
+Die Seite lädt nichts von fremden Servern nach (keine Google Fonts, kein Tracking).
